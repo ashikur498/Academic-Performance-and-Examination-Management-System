@@ -3,7 +3,7 @@
 An interactive Java-based quiz platform designed for **teachers** and **students** to create, manage, and take quizzes on various topics.  
 Built using **Java Swing (JFrame)** for the interface and **SQL** for secure data management.  
 
-![Quiz App Screenshot](screenshots/main_menu.png)
+
 
 ---
 
@@ -156,4 +156,4 @@ Update JDBC connection settings in the code.
 
 ### 4️⃣ Run the Application
 
-In NetBeans, click Run Pro
+In NetBeans, click Run Program
