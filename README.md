@@ -141,3 +141,19 @@ Special thanks to the **Almighty** for giving us strength and perseverance to co
 ```bash
 git clone https://github.com/username/quiz-application-java.git
 cd quiz-application-java
+
+### 2️⃣ Open in NetBeans IDE
+
+File → Open Project → Select the folder.
+
+### 3️⃣ Set Up the Database
+
+Create an SQL database.
+
+Import the provided .sql file into your MySQL server.
+
+Update JDBC connection settings in the code.
+
+### 4️⃣ Run the Application
+
+In NetBeans, click Run Pro
